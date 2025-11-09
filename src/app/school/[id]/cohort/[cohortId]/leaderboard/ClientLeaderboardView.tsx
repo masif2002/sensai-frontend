@@ -127,7 +127,7 @@ export default function ClientLeaderboardView({
                                         {cohortName}
                                     </span>
                                     <span className="mx-2 text-lg font-light text-gray-400">/</span>
-                                    <span className="text-4xl font-light">Leaderboarddd</span>
+                                    <span className="text-4xl font-light">Leaderboard</span>
                                 </h1>
 
                                 {/* Mobile: only leaderboard title */}
